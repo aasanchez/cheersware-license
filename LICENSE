@@ -11,17 +11,17 @@ IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
 FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS BE
 LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF
 CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
-SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+SOFTWARE OR THE USE OF OTHER DEALINGS IN THE SOFTWARE.
 
 ---
 
 ## 🍵 Motivation Behind the Cheersware License
 
 In a world where software powers nearly every aspect of our lives, the licenses
-governing its use have become increasingly complex, legalistic, and at times,
+governing its use has become increasingly complex, legalistic, and at times,
 intimidating. While it's important to protect intellectual property and ensure
-clarity around usage rights, many developers—especially those building for the
-open-source community—are less interested in enforcing control and more
+Clarity around usage rights, many developers, especially those building for the
+open-source community is less interested in enforcing control and more
 interested in spreading utility, creativity, and collaboration.
 
 The **Cheersware License** was born out of this spirit: a desire to make
@@ -31,7 +31,7 @@ while still providing a nod to the value that open work brings to others.
 At its core, Cheersware is a celebration of human connection. It assumes good
 faith. It encourages kindness. And it replaces restrictive clauses and
 intimidating legalese with something more familiar:
-**a friendly invitation to share a drink**-be it a coffee, tea, beer, or
+**a friendly invitation to share a drink **- be it a coffee, tea, beer, or
 anything that brings people together. It says: _“Use this freely. And if it
 helps you, raise a glass next time we meet.”_
 
@@ -42,7 +42,7 @@ helps you, raise a glass next time we meet.”_
 - **No legal BS**: We’ve stripped away the intimidating parts. This license
   isn't here to trap you—it's here to empower you.
 - **Encourages freedom**: You can use the code, modify it, redistribute it,
-  commercialize it—anything. No strings attached.
+  commercialise it—anything. No strings attached.
 - **Celebrates gratitude**: The only “condition” is not legal—it's social.
   If this code makes your day easier, you're invited to say thanks, perhaps over
   a drink, if life brings us together.
