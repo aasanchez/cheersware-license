@@ -1,50 +1,25 @@
-# Cheersware License
+# Cheersware License Website
 
-In a world where software powers nearly every aspect of our lives, the licenses
-governing its use have become increasingly complex, legalistic, and at times,
-intimidating. While it's important to protect intellectual property and ensure
-clarity around usage rights, many developers—especially those building for the
-open-source community—are less interested in enforcing control and more
-interested in spreading utility, creativity, and collaboration.
+This repository hosts the source code for the official website of the **🍻 Cheersware License**.
 
-The Cheersware License was born out of this spirit: a desire to make software
-licensing simple, human, and free of legal entanglements—while still providing a
-nod to the value that open work brings to others.
+The website aims to:
+- Clearly present the Cheersware License text.
+- Explain the motivation and philosophy behind it.
+- Make it easy for anyone to adopt the license for their own projects.
 
-At its core, Cheersware is a celebration of human connection. It assumes good
-faith. It encourages kindness. And it replaces restrictive clauses and
-intimidating legalese with something more familiar: a friendly invitation to
-share a drink—be it a coffee, tea, beer, or anything that brings people
-together. It says: “Use this freely. And if it helps you, raise a glass next
-time we meet.”
+## About the Cheersware License
 
-## Why Cheersware?
+The Cheersware License is a simple, human-readable license that encourages sharing and gratitude. Instead of complex legal jargon, it suggests a simple "cheers" – a coffee, tea, or beer – if you find the licensed software useful and happen to meet the author.
 
-* Simple to understand: No jargon, no subclauses, no "Section 9.4(a)(iii)"
-  confusion. Just a clear, readable license you can grasp in a single breath.
-* No legal BS: We’ve stripped away the intimidating parts. This license isn't
-  here to trap you—it's here to empower you.
-* Encourages freedom: You can use the code, modify it, redistribute it,
-  commercialize it—anything. No strings attached.
-* Celebrates gratitude: The only “condition” is not legal—it's social. If this
-  code makes your day easier, you're invited to say thanks, perhaps over a
-  drink, if life brings us together.
+## How to Use the Cheersware License in Your Project
 
-## Who Is It For?
+1.  **Copy the license text:** Go to the [Cheersware License Website](https://your-github-username.github.io/your-repo-name/) (replace with the actual GitHub Pages URL once deployed) or grab the text from the `LICENSE` file in this repository.
+2.  **Create a `LICENSE` file:** In the root of your project, create a file named `LICENSE` or `LICENSE.md`.
+3.  **Paste the text:** Paste the full Cheersware License text into this file.
+4.  **Update the copyright:** Change `[year]` and `[author]` in the license text to your project's year and your name/organization.
 
-Cheersware is for developers, artists, makers, and tinkerers who want to:
+That's it! You're ready to share your project with the Cheersware License.
 
-* Share their work without overthinking legal implications.
-* Foster a culture of openness and gratitude.
-* Avoid license fatigue from choosing between dozens of licenses that all say
-  more or less the same thing.
-* Contribute to a friendlier open-source ecosystem.
+---
 
-This license isn’t about control—it's about trust and community. You don’t need
-a lawyer to understand it. You just need to believe that sharing knowledge
-should be as effortless as clinking glasses.
-
-So go ahead—fork it, build on it, remix it, sell it, teach with it. And if you
-feel like it helped you, maybe say “cheers” someday.
-
-That’s it.
+This website is designed to be hosted on GitHub Pages.
